@@ -1,6 +1,12 @@
 # portfolio
 A responsive personal portfolio showcasing my skills, projects, and contact information.
 
+## 🌐 Live Demo
+
+Visit the portfolio here:
+
+[View Portfolio](https://nawaf-alharbi1.github.io/portfolio/)
+
 ## Features
 
 - Responsive design
