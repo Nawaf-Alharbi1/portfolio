@@ -184,13 +184,24 @@ h2{
     background:#38bdf8;
 
 }
+
+.projects-container{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    justify-content:center;
+
+    gap:30px;
+
+}
+
 .project-card{
 
     background:#1e293b;
 
-    max-width:700px;
-
-    margin:auto;
+    width:320px;
 
     padding:30px;
 
