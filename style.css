@@ -398,3 +398,12 @@ nav a:hover::after{
     }
 
 }
+#about {
+    text-align: center;
+}
+
+#about p {
+    max-width: 650px;
+    margin: 0 auto;
+    text-align: center;
+}
